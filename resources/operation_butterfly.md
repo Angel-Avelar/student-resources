@@ -25,3 +25,7 @@ This list provides emergency mental health resources for various communities, in
 | Immigrants Rising Mental Health Connector | Website | Undocumented Individuals | Psychological support for undocumented youth |
 | Crisis Text Line | Text HOME to 741741 | General | Connect with a crisis counselor via text |
 | 988 Suicide & Crisis Lifeline	| 988 (Call/Text) |	General | 24/7 crisis support |
+
+
+# Student Organizations
+Here goes a list of student organizations from California
