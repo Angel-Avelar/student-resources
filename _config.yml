@@ -1,0 +1,7 @@
+title: College Application Resources
+description: Resources for Students Navigating Higher Education
+markdown: kramdown
+
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+nav_sort: case_insensitive
