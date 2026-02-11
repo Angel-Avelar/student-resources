@@ -4,17 +4,26 @@ title: Operation Butterfly Net
 ---
 
 # Rapid Response: Urget Resources
+
+| Scholarship Name| Reward | Application| Requirements|
+|:---:|:---:|:---:|
+| Scholarship 1 | 2000 | [Link](https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Pooh_Shepard1928.jpg/1280px-Pooh_Shepard1928.jpg?20220101051122) | Undergrad| 
+
 In case of an emergency, you can report ICE activity and enforcement actions by calling the local rapid response networks. Save these numbers and share them with your community.
 
 | Location | Organization Name | Hotline| Notes|
 |:---:|:---:|:---:|:---:|
-| Los Angeles Counties | Los Angeles Raids Rapid Response Network | (888) 624-4752 | |
-| Koreatown (Los Angeles) | Koreatown Rapid Response Network | (323) 894-1504 | |
+| Los Angeles Counties | Los Angeles Raids Rapid Response Network | (888) 624-4752 |  |
+| Koreatown (Los Angeles) | Koreatown Rapid Response Network | (323) 894-1504 |  |
 | North County San Diego | Alianza Comunitaria | "Text ""Alianza"" to 33733 
 (Español) 
  ""Alianza2"" (English)" | Alerts about checkpoints | 
   Los Angeles County | CHIRLA Rapid Response Hotline | (213) 353-1333 | Coalition for Humane Immigrant Rights | 
 | Long Beach | ORALE (Long Beach) | (562) 276-0267 | |
+
+| Scholarship Name| Reward | Application| Requirements|
+|:---:|:---:|:---:|
+| Scholarship 1 | 2000 | [Link](https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Pooh_Shepard1928.jpg/1280px-Pooh_Shepard1928.jpg?20220101051122) | Undergrad| 
 
 # Improving Community Care & Wellness
 This list provides emergency mental health resources for various communities, including BIPOC, LGBTQ+, undocumented individuals, and general crisis support.
@@ -28,3 +37,7 @@ Text START to 678-678" | LGBTQ+ Youth | 24/7 crisis and suicide prevention |
 | Immigrants Rising Mental Health Connector | Website |	Undocumented Individuals | Psychological support for undocumented youth |
 | Crisis Text Line | Text HOME to 741741 | General | Connect with a crisis counselor via text |
 | 988 Suicide & Crisis Lifeline	| 988 (Call/Text) |	General | 24/7 crisis support |
+
+| Scholarship Name| Reward | Application| Requirements|
+|:---:|:---:|:---:|
+| Scholarship 1 | 2000 | [Link](https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Pooh_Shepard1928.jpg/1280px-Pooh_Shepard1928.jpg?20220101051122) | Undergrad| 
