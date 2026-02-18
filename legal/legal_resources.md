@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legal Resources
-parent: Legal
+parent: Legal Resources Home
 ---
 
 # Legal Resources for the Undocumented Community
