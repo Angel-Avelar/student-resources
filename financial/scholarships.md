@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scholarships
+parent: Financial Resources
 ---
 
 # Current Scholarships Available
