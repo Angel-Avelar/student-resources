@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operation Butterfly Net
-parent: resources
+parent: Resources
 ---
 
 # Rapid Response: Urget Resources
