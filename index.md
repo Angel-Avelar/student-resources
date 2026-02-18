@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to the IDEAS Resource Page
+# Welcome to the IDEAS Resource Page at UCLA
 
 This is a page for navigating higher education.
 
