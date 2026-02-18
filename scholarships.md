@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCHOLARSHIPS
+title: Scholarships
 ---
 
 # Current Scholarships Available
