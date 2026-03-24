@@ -8,14 +8,18 @@ body {
 
 // Just-the-docs has specific background colors for the UI.
 // Make them transparent to see background image.
-.side-bar, .main {
+.main {
     background-color: transparent;
 }
 
+// .side-bar {
+//     background-color: #fbf8f0;
+// }
+
 // Optional: Add a semi-transparent overlay to the main content 
 // so your text remains readable against the image.
-.main-content {
-    background-color: rgba(255, 255, 255, 0.9); 
+.main-content, .side-bar {
+    background-color: rgba(251, 248, 240, 0.8); 
     padding: 20px;
     border-radius: 8px;
 }
