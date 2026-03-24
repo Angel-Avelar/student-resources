@@ -28,5 +28,3 @@ parent: Rapid Response Networks
     - Kern County [661-432-2230](tel:6614322230)
     - Central Valley [559-206-0151](tel:5592060151)
     - Santa Barbara, Ventura & San Luis Obispo [805-870-8855](tel:8058708855)
-
-

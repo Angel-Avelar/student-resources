@@ -1,0 +1,21 @@
+body {
+    background-image: url("{{ '/assets/images/Background.png' | relative_url }}");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+// Just-the-docs has specific background colors for the UI.
+// Make them transparent to see background image.
+.side-bar, .main {
+    background-color: transparent;
+}
+
+// Optional: Add a semi-transparent overlay to the main content 
+// so your text remains readable against the image.
+.main-content {
+    background-color: rgba(255, 255, 255, 0.9); 
+    padding: 20px;
+    border-radius: 8px;
+}
