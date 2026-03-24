@@ -1,6 +1,7 @@
 title: College Resources
 description: Resources for Students Navigating Higher Education
 remote_theme: pmarsceill/just-the-docs
+color_scheme: usparc
 just_the_docs:
   collapsible_nav: true
-base-url: "/student-resources"
+baseurl: "/student-resources"
