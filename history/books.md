@@ -26,6 +26,8 @@ parent: History
   </div>
 </div>
 
+---
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <img src="https://books.labor.ucla.edu/images/thumbs/0000129_undocumented-and-unafraid-tam-tran-cinthya-felix-and-the-immigrant-youth-movement_300.jpeg" alt="Undocumented and Unafraid Book Cover" style="width: 100%; border-radius: 8px;">
@@ -42,6 +44,11 @@ parent: History
 > * Civil disobedience in the halls of Congress: Undocumented immigrant youth risk deportation to support the Dream Act.
 > * Immigrant youth coming out: Queer, Asian Pacific Islander, and Latina/o undocumented students share their stories.
 
+  </div>
+</div>
+
+---
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <img src="https://books.labor.ucla.edu/images/thumbs/0000132_dreams-deported-immigrant-youth-and-families-resist-deportation_300.jpeg" alt="Dreams Deported Book Cover" style="width: 100%; border-radius: 8px;">
@@ -51,3 +58,6 @@ parent: History
 ## [Dreams Deported: Immigrant Youth and Families Resist Deportation](https://books.labor.ucla.edu/dreams-deported-immigrant-youth-and-families-resist-deportation)
 
 > Dreams Deported: Immigrant Youth and Families Resist Deportation is a UCLA student publication featuring stories of deportation and of the courageous immigrant youth and families who have led the national campaign against deportations and successfully challenged the president of the United States to act.
+
+  </div>
+</div>
