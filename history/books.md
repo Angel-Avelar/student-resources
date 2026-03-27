@@ -12,7 +12,7 @@ parent: History
   </div>
   <div style="flex: 2; min-width: 300px;" markdown="1">
 
-## [Underground Undergrads: UCLA Undocumented Immigrant Students Speak Out](https://books.labor.ucla.edu/undergroundundergrads)
+## [Underground Undergrads: UCLA Undocumented Immigrant Students Speak Out](https://books.labor.ucla.edu/undergroundundergrads){: style="margin-top: 0;"}
 > This book features stories by:
 > 
 > * Mario Escobar: A former child soldier from El Salvador who recently attained asylum in this country.
