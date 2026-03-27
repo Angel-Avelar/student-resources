@@ -8,11 +8,11 @@ parent: History
 <!-- ![IDEAS Logo](url("../../assets/images/underground-undergrads-book-cover.jpeg") "Logo") -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="../../assets/images/underground-undergrads-book-cover.jpeg" alt="Underground Undergrads Book Cover" style="width: 100%; border-radius: 8px;">
+    <img src="{{ '../../assets/images/underground-undergrads-book-cover.jpeg' | relative_url }}" alt="Underground Undergrads Book Cover" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 2; min-width: 300px;" markdown="1">
 
-  #### [Underground Undergrads: UCLA Undocumented Immigrant Students Speak Out](https://books.labor.ucla.edu/undergroundundergrads)
+# [Underground Undergrads: UCLA Undocumented Immigrant Students Speak Out](https://books.labor.ucla.edu/undergroundundergrads)
 > This book features stories by:
 > 
 > * Mario Escobar: A former child soldier from El Salvador who recently attained asylum in this country.
