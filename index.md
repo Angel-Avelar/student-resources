@@ -12,4 +12,4 @@ This is a page for navigating higher education.
 History of short introduction paragraph.
 - For students by students
 
-![IDEAS Logo](./IDEAS%20Logo.png "Logo")
+<!-- ![IDEAS Logo](./IDEAS%20Logo.png "Logo") -->
