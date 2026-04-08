@@ -4,12 +4,9 @@ title: Home
 nav_order: 1
 ---
 
+<div class="home-banner">
+  <img src="./assets/images/USPARC_Header.png" alt="USPARC Header">
+</div>
+
 # Welcome to the IDEAS Resource Page at UCLA
-
-This is a page for navigating higher education.
-
-## About IDEAS
-History of short introduction paragraph.
-- For students by students
-
-<!-- ![IDEAS Logo](./IDEAS%20Logo.png "Logo") -->
+Short introduction paragraph.
