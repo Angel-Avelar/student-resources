@@ -14,6 +14,3 @@ IJAC is committed to uplifting undocumented communities, allies, and aligned org
 
 [See more](https://www.weareijac.org/) and follow IJEC on [Instagram!](https://www.instagram.com/immigrantjusticeca?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-# Tam Tran Lost & Found
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jI7J2b3t4WU" frameborder="0" allowfullscreen></iframe>
-
